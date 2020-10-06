@@ -1,0 +1,26 @@
+.titulo1 {
+    font-size: 2rem;
+    text-align: center;
+    margin:1rem;
+    font-weight: bold;
+}
+.container-buscar {
+    margin:auto;
+    margin-bottom: 1rem;
+}
+.acciones {
+    display: flex;
+    justify-content: space-around;
+}
+.main-container {
+    margin: auto;
+}
+.boton {
+    display: flex;
+    justify-content: center;
+    
+}
+.boton a{
+    margin-right:2rem;
+    margin-top:1rem;
+}

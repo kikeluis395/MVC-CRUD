@@ -13,7 +13,7 @@
 <body>
 <nav class="navbar navbar-dark bg-dark">
     <div class="container">
-    <a href="insertar.php" class="navbar-brand">MVC-CRUD</a>
+    <a href="insertar.php" class="navbar-brand">MVC-CRUD-PHP</a>
     </div>
 </nav>
 <h1 class="titulo1">Agregar usuarios</h1>
